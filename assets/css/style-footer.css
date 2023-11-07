@@ -1,0 +1,26 @@
+/* this is the css sheet for the footer */
+
+footer {
+    height: 170px;
+    background-image: linear-gradient(transparent, #33a8db33);
+    text-align: center;
+    border-top: 1px solid #33a8db;
+    padding: 60px
+}
+
+.dio-logo {
+    text-align: center;
+}
+
+p {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+p a {
+    font-weight: 700;
+    color: #33a8db;
+    text-decoration-line: none;
+}

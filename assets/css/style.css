@@ -1,0 +1,15 @@
+/* this is the main style sheet */
+
+@import url("./style-header.css");
+
+@import url("./style-main.css");
+
+@import url("./style-footer.css");
+
+body {
+    background-color: #000000;
+}
+
+section {
+    margin: 175px auto;
+}

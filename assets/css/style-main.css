@@ -1,0 +1,91 @@
+/* this is the css sheet for the main section */
+
+@import url("./font.css");
+
+#course-content {
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#course-content h2 {
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #33a8db;
+    text-transform: uppercase;
+}
+
+#course-content p {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.modules-list {
+    width: 535px;
+    height: 50px;
+    margin: auto;
+}
+
+.modules-list .module {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff;
+    background-color: #252525;
+    border: 1px solid #33a8db;
+    border-radius: 25px;
+    box-shadow: inset -2px 6px 4px 0px #00000033;
+    margin: 20px;
+    padding: 15px;
+}
+
+.module span {
+    color: #33a8db;
+}
+
+#transform-world {
+    height: 270px;
+    background-image: url("../images/woman-code.png");
+    background-size: cover;
+    background-attachment: fixed;
+    border-top: 1px solid #33a8db;
+    border-bottom: 1px solid #33a8db;
+    padding-top: 70px;
+    padding-left: 200px;
+}
+
+#transform-world p {
+    width: 260px;
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 900;
+    text-transform: lowercase;
+    color: #ffffff;
+    text-shadow: 3px 2px #33a8db;
+}
+
+#professional-challenges {
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#professional-challenges h2 {
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #33a8db;
+    text-transform: uppercase;
+}
+
+#professional-challenges p {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff;
+}
